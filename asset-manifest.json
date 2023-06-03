@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/svatba/static/css/main.a1719952.css",
-    "main.js": "/svatba/static/js/main.8eb4febc.js",
+    "main.css": "/svatba/static/css/main.9dc4e7f3.css",
+    "main.js": "/svatba/static/js/main.4e47cb90.js",
     "static/js/787.9418c855.chunk.js": "/svatba/static/js/787.9418c855.chunk.js",
     "index.html": "/svatba/index.html",
-    "main.a1719952.css.map": "/svatba/static/css/main.a1719952.css.map",
-    "main.8eb4febc.js.map": "/svatba/static/js/main.8eb4febc.js.map",
+    "main.9dc4e7f3.css.map": "/svatba/static/css/main.9dc4e7f3.css.map",
+    "main.4e47cb90.js.map": "/svatba/static/js/main.4e47cb90.js.map",
     "787.9418c855.chunk.js.map": "/svatba/static/js/787.9418c855.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1719952.css",
-    "static/js/main.8eb4febc.js"
+    "static/css/main.9dc4e7f3.css",
+    "static/js/main.4e47cb90.js"
   ]
 }
