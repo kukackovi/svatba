@@ -23,9 +23,9 @@ const SecondPage = () => {
        </Col>
        <Col sm={12} md={6}>
            <h3>Ubytování</h3>
-           <p>Většinu hostů jsme schopni ubytovat v pokojích přímo areálu, nicméně dost postelí zde není. S vytipovanými dobrodružnými dušemi se předem domluvíme, zda by si sebou vzali karimatku / spacák. </p>
+           <p>Většinu hostů jsme schopni ubytovat v pokojích přímo v areálu, nicméně dost postelí zde není. S vytipovanými dobrodružnými dušemi se předem domluvíme, zda by si s sebou vzali karimatku / spacák. </p>
            <h3>Domácí mazlíčci</h3>
-           <p>Můžete si sebou vzít řádně vychovaného mazlíčka, avšak předem jej upozorněte, že nemá přístup na nábytek.</p>
+           <p>Můžete si s sebou vzít řádně vychovaného mazlíčka, avšak předem jej upozorněte, že nemá přístup na nábytek.</p>
            <h3>Dětské radovánky</h3>
             <p>V areálu máme i dětský pokoj s hračkami a knížkami, venku dětské hřiště s pískovištěm.</p>
             <p>Nejsme si jisti, kolik báboviček a dalších potřebných propriet tam bude, proto pokud má váš prcek nějaké oblíbené kousky, budou tam určitě využity (věříme, že si je i v pořádku odvezete domů).</p>
