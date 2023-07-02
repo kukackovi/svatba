@@ -1,11 +1,14 @@
 import React from "react";
 import {Row, Col} from "react-bootstrap"
 import Lottie from "lottie-react";
-import bird from "../temporary/bird.json";
+import birds from "./birds.json";
 
 const FourthPage = () => {
     return <>
     <hr />
+    <div className="seagulls">
+        <Lottie animationData={birds} loop={true} />
+    </div>
     <Row className="info-section">
        <Col sm={12} md={6}>
            <h3>Dress Code</h3>
